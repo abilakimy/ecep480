@@ -1,1 +1,1 @@
-# ecep480-sam
+This is a Residential PV Design Process project the goal of which was to develop a residential PV system design that produces the output desired by the homeowners using the System Advisor Model (SAM) software. It was a part of the ECEP480 course at Drexel University.
